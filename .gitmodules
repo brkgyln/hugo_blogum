@@ -1,0 +1,3 @@
+[submodule "brkgyln.github.io"]
+	path = brkgyln.github.io
+	url = git@github.com:brkgyln/brkgyln.github.io.git
